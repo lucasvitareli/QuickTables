@@ -1,0 +1,54 @@
+
+body {
+background: rgb(209, 117, 56);
+font: normal 15pt Arial;
+}
+
+header {
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    font-size: 25pt;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 10px;
+    height: 100%;
+    width: 600px;
+    margin: auto;
+    box-shadow:3px 5px 10px rgba(0, 0, 0, 0.473) ;
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+}
+
+div {
+    text-align: center;
+    font-size: 16pt
+}
+
+input[type="button"] {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#selTab {
+    width: 180px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    
+}
+
+option {
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+    margin-top: 12px;
+}
